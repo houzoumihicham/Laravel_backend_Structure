@@ -1,0 +1,45 @@
+ 
+
+.placeholder {
+    border: 1px dashed #0e71b8;
+    background-color: white;
+
+    max-width: 400px;
+    margin: 8px;
+    position:relative;
+}
+.placeholder .action_button{
+    position: absolute;
+    right: 20px;
+    top: 8px;
+
+}
+.placeholder .rond{
+    padding: 7px 8px 7px !important;
+}
+.rond{
+    border-radius: 50% !important;
+    padding: 4px 7px 3px !important;
+}
+.boton-modifier,.boton-modifier:hover{
+    color: #CDDC39;
+    font-size: 20px;
+    text-decoration: none;
+}
+.boton-supprimer,.boton-supprimer:hover{
+    color: #e7505a;
+    font-size: 20px;
+    text-decoration: none;
+}
+ .placeholder {
+     border: 1px dashed #0e71b8;
+     background-color: white;
+     max-width: 80%;
+     margin: 8px;
+     height: 175px;
+ }
+
+.bg-red {
+    background: #e7505a!important;
+    color: #fff !important;
+}

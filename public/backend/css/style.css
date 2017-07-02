@@ -1,0 +1,76 @@
+.not-show{
+    display: none
+}
+.dropzone {
+    min-height: 150px;
+    border: 2px dashed rgb(23, 196, 187) !important;
+    background: white;
+    padding: 20px 20px;
+    color:#428bca;
+    font-size: 18px;
+    width: 80%;
+    margin: 40px auto;
+}
+.h1text{
+    padding: 40px 0px 15px 0px;
+    font-size: 25px;
+    color: #17c4bb;
+}
+.button-slider{
+    position: absolute;
+    right: 45px;
+    top: 64px;
+    font-size: 25px;
+}
+.button-slider a,.button-slider a:hover{
+    text-decoration: none !important;
+}
+.lang_desc{
+    width: 70px;
+    right: 66px;
+    position: absolute;
+    top: 15px;
+}
+.logo_backend{
+    color: #fff;
+    font-weight: 400;
+    margin-left: -8px;
+}
+.logout_backend{
+    height: 100%;
+    width: 155px;
+    float: right;
+    padding: 25px 50px;
+}
+a,a:hover{
+    text-decoration: none!important;
+}
+
+
+.dataTables_wrapper .dataTables_processing {
+  
+    position: absolute;
+   
+}
+#dataTableBuilder_filter {
+    text-align: right
+}
+
+.portlet{
+    padding: 32px !important; 
+}
+.btn-group{
+    margin-top:0px !important;
+}
+
+
+.boton-modifier,.boton-modifier:hover{
+    color: #CDDC39;
+    font-size: 20px;
+    text-decoration: none;
+}
+.boton-supprimer,.boton-supprimer:hover{
+    color: #e7505a;
+    font-size: 20px;
+    text-decoration: none;
+}
